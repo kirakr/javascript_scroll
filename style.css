@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+  }
+  
+  h1 {
+    margin: 50vh 0;
+    color:#000343
+}
+  
+  img {
+    max-width: 100%;
+    margin: 20vh 0;
+  }
